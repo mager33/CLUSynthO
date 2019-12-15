@@ -7,7 +7,7 @@ based on the Mozzi library https://sensorium.github.io/Mozzi/
 
 dedicated to a friend - happy knob-fiddling, Cluso!
 
-wiring: potentiometer connected to A1-A5 (and VCC/GND, of course), audio connected through low pass filter (220 Ohm, 100nF) and amplifier, can be powered via USB or 3x AA battery (in 3D-printed battery case inside) - never switch on battery when on USB!
+*wiring*: potentiometer connected to A1-A5 (and VCC/GND, of course), audio connected through low pass filter (220 Ohm, 100nF) and amplifier, can be powered via USB or 3x AA battery (in 3D-printed battery case inside) - *never switch on battery when USB is plugged-in!*
 
     MODE I: *phrase mode*, PARAM: phrase, A: speed/direction, B: pitch
 
