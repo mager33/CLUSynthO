@@ -13,13 +13,13 @@ MODE I: *phrase mode*, PARAM: phrase, A: speed/direction, B: pitch
 
 MODE II: *synth mode* virtual analog subtractive synth
 
-  PARAM 1: *oscillator* A: waveform sine/triangle/sawtooth/square, B: LFO depth, C: envelope depth
+    PARAM 1: *oscillator* A: waveform sine/triangle/sawtooth/square, B: LFO depth, C: envelope depth
   
-  PARAM 2: *envelope* A: attack, B: decay
+    PARAM 2: *envelope* A: attack, B: decay
   
-  PARAM 3: *lfo* A: waveform sine/triangle/sawtooth/square, B: frequency
+    PARAM 3: *lfo* A: waveform sine/triangle/sawtooth/square, B: frequency
   
-  PARAM 4: *filter* A: cutoff, B: resonance
+    PARAM 4: *filter* A: cutoff, B: resonance
   
 MODE III: *song mode*, PARAM: song, A: speed, B: pitch
 
