@@ -1,5 +1,5 @@
 # CLUSynthO
-Arduino-based digital synthesizer to explore digital sound generation, open source/hackable
+Arduino-based digital synthesizer to explore digital sound generation, open source/hackable!
 
 phrase sequenzer
 
